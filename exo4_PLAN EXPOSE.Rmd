@@ -1,0 +1,38 @@
+
+---
+title: "Traitement de valeurs aberrantes et manquante avec R"
+author: "Ahmadou Niass et 
+  Khadidiatou Diakhaté "
+date: "2024-03-08"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# Plan
+
+
+
+## Introduction
+
+### I. Traitement des valeurs manquantes
+- Types de valeurs manquantes
+- Méthodes d'imputation des valeurs manquantes
+
+### II. Traitement des valeurs aberrantes
+- Détection des valeurs aberrantes
+- Méthodes statistiques de traitement des valeurs aberrantes
+
+
+### III. Bibliothèques
+
+### IV. Limites
+
+## Conclusion
+
+
+
